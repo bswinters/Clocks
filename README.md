@@ -1,1 +1,3 @@
 # Clocks
+
+This program allows users to view the time in both 12 and 24 hour format. The program also enables the user to set the time in both formats. Particularly, I believe I named the variables well, and made proper use of whitespace. I would enhance my program by consdensing the code, making use of functions and private variables. These additions could make my code more secure and reuseable. Using the "this" keyword was a challenge to first understand, I overcame this by researching how to do use this tool. Creating classes and making use of the library will definetely transfer to other projects and future course work. I made this program maintable and readable by using simple logic and practicing proper etiquette.
